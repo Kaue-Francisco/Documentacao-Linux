@@ -22,3 +22,5 @@ Se você quiser ler o livro por inteiro também vou deixar o link abaixo:
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+Feito por Kauê Francisco
